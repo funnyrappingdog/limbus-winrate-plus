@@ -7,3 +7,5 @@ i cant figure out how to make the image transparent, or how to turn the file int
 i used chat gpt for bug fixing and making my code look pretty, I AM NOT A VIBECODER!.
 i know what a function is :)
 and how classes work....kinda 😛
+
+good luck in mirror dungeons and in banner pulls
